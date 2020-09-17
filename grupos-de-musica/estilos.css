@@ -1,0 +1,73 @@
+html{
+	font-family:Verdana;
+}
+
+h1{
+	color:#333;
+	font-size:20px;
+}
+
+h2{
+	color:#666;
+	font-size:16px;
+}
+
+img{
+	width:400px;
+	height:200px;	
+}
+
+.tableh{
+	color:white;
+	font-size:12px;
+	background-color:#666;
+	text-align:center;
+}
+
+a:link{
+	color:blue;
+	font-size:12px;
+}
+
+a:visited{
+	color:blue;
+	font-size:12px;
+}
+
+a:hover{
+	color:blue;
+	font-size:12px;
+	font-weight:bolder;
+}
+
+table, td{
+	border:1px solid black;
+	border-collapse:collapse;
+}
+
+td{
+	padding:10px;
+	font-size:12px;
+}
+
+
+li, p{
+	color:#000;
+	font-size:12px;
+}
+
+caption{
+	color:#000;
+	font-size:14px;
+}
+
+.tablefoot{
+	color:#000;
+	background-color:#ccc;
+	font-size:12px;
+}
+
+.tableb{
+	color:#000;
+	background-color:#fff;
+}
